@@ -5,6 +5,6 @@
 * 💻 Main languages are: Python, JavaScript, HTML, CSS, and PHP.
 * 🌈 My pronouns are she/her/hers, and you can contact me on twitter @Itzlizzieee.
 
-# 💬 TLDR: Stupid programming girl, probably working on getting some old computer to live again like some witch doctor. ^^
+#### 💬 TLDR: Stupid programming girl, probably working on getting some old computer to live again like some witch doctor. ^^
 
 
