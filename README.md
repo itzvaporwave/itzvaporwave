@@ -1,4 +1,4 @@
-#    Hai there! ^w^
+#    Hai there! 💖
 
 * 👋 Welcome to my GitHub, filled with old code and half completed passion projects. 
 * 🌸 If your here to learn or use my code for something important your probably in the wrong place.
